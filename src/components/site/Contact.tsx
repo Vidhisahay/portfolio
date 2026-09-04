@@ -2,7 +2,7 @@ import { ArrowUpRight, Github, Linkedin, Mail } from "lucide-react";
 import { Reveal, Section } from "./primitives";
 
 const links = [
-  { icon: Mail, label: "Email", href: "mailto:vidhisahay@gmail.com" },
+  { icon: Mail, label: "Email", href: "mailto:vidhisahay25@gmail.com" },
   { icon: Linkedin, label: "LinkedIn", href: "https://www.linkedin.com/in/vidhisahay/" },
   { icon: Github, label: "GitHub", href: "https://github.com/Vidhisahay" },
 ];

@@ -23,7 +23,7 @@ export function Education() {
           <span className="label-mono">Education</span>
         </div>
       </Reveal>
-      <div className="mt-6 grid gap-5 lg:grid-cols-2">
+      <div className="mt-6 grid gap-5">
         <Reveal delay={80}>
           <div className="glass flex h-full flex-col gap-6 rounded-3xl p-6 sm:flex-row sm:items-center sm:justify-between sm:p-8">
             <div>

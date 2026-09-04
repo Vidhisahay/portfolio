@@ -68,7 +68,7 @@ export function Hero() {
                   label: "LinkedIn",
                 },
                 { icon: Github, href: "https://github.com/Vidhisahay", label: "GitHub" },
-                { icon: Mail, href: "mailto:vidhisahay@gmail.com", label: "Email" },
+                { icon: Mail, href: "mailto:vidhisahay25@gmail.com", label: "Email" },
               ].map(({ icon: Icon, href, label }) => (
                 <a
                   key={label}
