@@ -9,7 +9,6 @@ import { Experience } from "@/components/site/Experience";
 import { TechStack } from "@/components/site/TechStack";
 import { Education } from "@/components/site/Education";
 import { Achievements } from "@/components/site/Achievements";
-import { Activities } from "@/components/site/Activities";
 import { BucketList } from "@/components/site/BucketList";
 import { Contact } from "@/components/site/Contact";
 import { Footer } from "@/components/site/Footer";
@@ -46,7 +45,6 @@ function Index() {
         <TechStack />
         <Education />
         <Achievements />
-        <Activities />
         <BucketList />
         <Contact />
       </main>
